@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Aethermoor-5.github.io/sitemap.xml
